@@ -1,4 +1,4 @@
-##Hi there 👋 my name is Arthur and i'm currently studying web development. Here i will share to you all my projects. I want to become a senior web developer and contibute a lot to this tech world. Welcome to my GitHub
+## Hi there 👋 my name is Arthur and i'm currently studying web development. Here i will share to you all my projects. I want to become a senior web developer and contibute a lot to this tech world. Welcome to my GitHub
 
 - 🌱 I’m currently learning HTML, CSS, JS, BOOTSTRAP, PHP, SQL, GIT and GITHUB
 -  I’m looking to collaborate on Web projects
