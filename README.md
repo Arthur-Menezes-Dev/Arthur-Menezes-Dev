@@ -7,6 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Coding. Mainly creating web Pages
 - 🗣️ I speak 🇧🇷 Portuguese, 🇬🇧 English, and 🇫🇷 French
+- 💻🤖😁 Coding Everyday
 
 ### Technologies I know: 🤖 🦾 🖱️ 💻
 
@@ -33,6 +34,4 @@
 
 ## Contatos:
 <div>
-  <a href="https://www.instagram.com/arthur_code_dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/arthur-menezes-alves-2721a7255/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+  <a href="https://www.instagram.com/arthur_code_dev/" target="_blank"><img loading="lazy
