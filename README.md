@@ -6,6 +6,7 @@
 - 📫 How to reach me: Instagram: arthur_code_dev and linkedin: Arthur (Arthur CodeDev) Menezes alves
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Coding. Mainly creating web Pages
+- 🗣️ I speak 🇧🇷 Portuguese, 🇬🇧 English, and 🇫🇷 French
 
 ### Technologies I know: 🤖 🦾 🖱️ 💻
 
