@@ -21,6 +21,14 @@
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
+### Languages I speak: 🗣️ 🌍
+
+<div style="display: inline-block"><br/>
+  <img align="center" alt="Portuguese" src="https://img.shields.io/badge/Portuguese-009c3b?style=for-the-badge&logo=googletranslate&logoColor=ffdf00"/>
+  <img align="center" alt="English" src="https://img.shields.io/badge/English-00247D?style=for-the-badge&logo=googletranslate&logoColor=CF142B"/>
+  <img align="center" alt="French" src="https://img.shields.io/badge/French-002395?style=for-the-badge&logo=googletranslate&logoColor=ED2939"/>
+</div>
+
 <br/>
 
 ## Contatos:
